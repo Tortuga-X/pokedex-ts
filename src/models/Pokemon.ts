@@ -1,5 +1,3 @@
-// src/models/Pokemon.ts
-
 interface PokemonStats {
     hp: number;
     attack: number;
